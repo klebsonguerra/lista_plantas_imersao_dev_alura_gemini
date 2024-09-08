@@ -10,6 +10,9 @@ Este projeto é um web app simples que permite pesquisar por plantas comerciais 
 * CSS
 * JavaScript
 
+**Link para acesso direto:**
+https://lista-plantas-imersao-dev-alura-gemini.vercel.app/
+
 **Instalação:**
 
 **Pré-requisitos:**
